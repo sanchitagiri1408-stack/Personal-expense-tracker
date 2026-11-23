@@ -1,0 +1,494 @@
+============================================================
+PERSONAL EXPENSE TRACKER - SUMMARY REPORT
+============================================================
+
+Report Generated: 2026-11-23 16:14:14
+------------------------------------------------------------
+
+📊 OVERALL STATISTICS
+----------------------------------------
+Total Spending:      $   40,767.34
+Total Transactions:            365
+Average per Txn:     $      111.69
+Median Transaction:  $       67.77
+Minimum Transaction: $        5.23
+Maximum Transaction: $      497.64
+Daily Average:       $      113.56
+Monthly Average:     $    3,397.28
+
+📅 PERIOD COVERED
+----------------------------------------
+Start Date:  2025-11-28
+End Date:    2026-11-21
+Total Days:  359
+
+💰 SPENDING BY CATEGORY
+----------------------------------------
+Bills & Utilities    $ 15,840.34 [ 38.9%] ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Education            $  7,858.54 [ 19.3%] █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Shopping             $  6,325.73 [ 15.5%] ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Healthcare           $  2,847.15 [  7.0%] ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Transportation       $  2,540.95 [  6.2%] ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Other                $  2,343.40 [  5.8%] ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Entertainment        $  1,596.67 [  3.9%] █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Food & Dining        $  1,414.56 [  3.5%] █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+📈 MONTHLY SPENDING TRENDS
+----------------------------------------
+2025-11: $  1,507.02 (  7 transactions)
+2025-12: $  3,009.95 ( 30 transactions)
+2026-01: $  3,803.85 ( 32 transactions)
+2026-02: $  3,294.05 ( 25 transactions)
+2026-03: $  3,491.63 ( 36 transactions)
+2026-04: $  4,429.37 ( 40 transactions)
+2026-05: $  3,262.74 ( 26 transactions)
+2026-06: $  2,780.63 ( 28 transactions)
+2026-07: $  2,499.59 ( 30 transactions)
+2026-08: $  3,277.49 ( 29 transactions)
+2026-09: $  3,090.31 ( 25 transactions)
+2026-10: $  4,304.94 ( 32 transactions)
+2026-11: $  2,015.77 ( 25 transactions)
+
+💳 PAYMENT METHODS
+----------------------------------------
+Credit Card          $ 16,733.79 [ 41.0%] ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Debit Card           $ 12,996.70 [ 31.9%] ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Cash                 $  5,199.48 [ 12.8%] ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Mobile Payment       $  3,611.18 [  8.9%] ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Bank Transfer        $  2,226.19 [  5.5%] ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+============================================================
+END OF REPORT
+============================================================
+
+📋 DETAILED TRANSACTION LIST
+============================================================
+
+All Expenses (sorted by date):
+------------------------------------------------------------
+
+
+2025-11 - Total: $1,507.02
+--------------------------------------------------
+  2025-11-28 | Education          | $   28.25 | Microsoft 365
+  2025-11-28 | Shopping           | $  269.76 | Amazon clothing
+  2025-11-29 | Shopping           | $  220.33 | Laptop accessories
+  2025-11-29 | Food & Dining      | $   13.46 | DoorDash order
+  2025-11-29 | Bills & Utilities  | $  440.35 | WiFi bill
+  2025-11-30 | Education          | $  249.68 | Microsoft 365
+  2025-11-30 | Shopping           | $  285.19 | Baby shower gift
+
+2025-12 - Total: $3,009.95
+--------------------------------------------------
+  2025-12-02 | Shopping           | $  113.12 | Bed sheets
+  2025-12-04 | Entertainment      | $   37.12 | Art supplies
+  2025-12-04 | Shopping           | $  163.59 | Online deal
+  2025-12-06 | Healthcare         | $   12.20 | Dentist visit
+  2025-12-08 | Shopping           | $  224.35 | Home decor
+  2025-12-08 | Transportation     | $   84.78 | Airport parking
+  2025-12-09 | Entertainment      | $   18.43 | AMC Theaters
+  2025-12-10 | Food & Dining      | $   28.99 | Weekly groceries at Walmart
+  2025-12-12 | Healthcare         | $  147.17 | Specialist visit
+  2025-12-12 | Shopping           | $  127.29 | Holiday presents
+  2025-12-13 | Shopping           | $  195.94 | New shoes
+  2025-12-14 | Entertainment      | $   26.88 | Netflix
+  2025-12-17 | Shopping           | $  135.51 | Etsy purchase
+  2025-12-17 | Bills & Utilities  | $  164.34 | Water bill
+  2025-12-19 | Education          | $  219.92 | Office supplies
+  2025-12-20 | Food & Dining      | $  125.63 | Chipotle
+  2025-12-22 | Shopping           | $  244.71 | Target clothes
+  2025-12-24 | Education          | $  229.10 | College tuition
+  2025-12-24 | Education          | $   67.77 | Coursera
+  2025-12-24 | Shopping           | $  160.34 | Laptop accessories
+  2025-12-24 | Entertainment      | $    5.23 | Art supplies
+  2025-12-25 | Food & Dining      | $   12.26 | Dinner at Italian place
+  2025-12-26 | Entertainment      | $   30.79 | Craft supplies
+  2025-12-26 | Shopping           | $   30.59 | IKEA trip
+  2025-12-28 | Other              | $   14.23 | Cloud storage
+  2025-12-28 | Food & Dining      | $   41.68 | Lunch with coworkers
+  2025-12-28 | Entertainment      | $   58.49 | Disney+
+  2025-12-29 | Entertainment      | $   49.14 | Photography gear
+  2025-12-30 | Education          | $  178.22 | Tuition installment
+  2025-12-31 | Transportation     | $   62.14 | Battery replacement
+
+2026-01 - Total: $3,803.85
+--------------------------------------------------
+  2026-01-01 | Entertainment      | $   13.91 | Event
+  2026-01-02 | Entertainment      | $   21.26 | Art supplies
+  2026-01-03 | Bills & Utilities  | $  389.40 | AT&T bill
+  2026-01-03 | Bills & Utilities  | $   81.73 | Housing
+  2026-01-03 | Bills & Utilities  | $  480.51 | WiFi bill
+  2026-01-03 | Bills & Utilities  | $  202.58 | Rent payment
+  2026-01-04 | Food & Dining      | $   10.24 | Dinner at Italian place
+  2026-01-04 | Transportation     | $   17.39 | Battery replacement
+  2026-01-07 | Transportation     | $   62.26 | Monthly bus pass
+  2026-01-07 | Food & Dining      | $   20.80 | Dunkin Donuts
+  2026-01-10 | Shopping           | $  178.51 | New shoes
+  2026-01-10 | Healthcare         | $   52.67 | Eye exam
+  2026-01-15 | Education          | $   93.87 | Course materials
+  2026-01-15 | Other              | $   49.34 | Other
+  2026-01-17 | Entertainment      | $   49.37 | Netflix
+  2026-01-17 | Shopping           | $   10.11 | New shoes
+  2026-01-18 | Entertainment      | $   30.57 | Steam
+  2026-01-19 | Bills & Utilities  | $  375.86 | Rent payment
+  2026-01-19 | Food & Dining      | $  102.95 | Costco run
+  2026-01-19 | Food & Dining      | $   75.09 | Birthday dinner
+  2026-01-20 | Shopping           | $   79.74 | Baby shower gift
+  2026-01-21 | Shopping           | $  124.74 | Home decor
+  2026-01-22 | Bills & Utilities  | $  487.48 | AT&T bill
+  2026-01-22 | Healthcare         | $   76.92 | Monthly premium
+  2026-01-23 | Shopping           | $  172.62 | Etsy purchase
+  2026-01-24 | Education          | $  243.26 | Workshop
+  2026-01-24 | Bills & Utilities  | $  192.11 | WiFi bill
+  2026-01-25 | Food & Dining      | $   11.95 | Subway
+  2026-01-28 | Entertainment      | $   32.45 | Live show
+  2026-01-29 | Entertainment      | $   10.90 | Xbox game
+  2026-01-30 | Transportation     | $   19.21 | Chevron
+  2026-01-30 | Shopping           | $   34.05 | Online deal
+
+2026-02 - Total: $3,294.05
+--------------------------------------------------
+  2026-02-01 | Bills & Utilities  | $  437.68 | Electric bill
+  2026-02-03 | Healthcare         | $  166.46 | Glasses
+  2026-02-04 | Transportation     | $   13.39 | Tire rotation
+  2026-02-04 | Shopping           | $  164.61 | New shoes
+  2026-02-05 | Food & Dining      | $   13.23 | DoorDash order
+  2026-02-06 | Transportation     | $   49.23 | Battery replacement
+  2026-02-06 | Shopping           | $   89.38 | Winter jacket
+  2026-02-10 | Shopping           | $  125.69 | Home decor
+  2026-02-12 | Food & Dining      | $   77.71 | Weekly groceries at Walmart
+  2026-02-12 | Transportation     | $   86.21 | Uber Eats trip
+  2026-02-12 | Entertainment      | $   22.68 | Cinema
+  2026-02-13 | Entertainment      | $    7.58 | Craft supplies
+  2026-02-14 | Other              | $   44.55 | Delivery tip
+  2026-02-15 | Other              | $   74.12 | Hotel
+  2026-02-16 | Education          | $  256.27 | Amazon books
+  2026-02-17 | Entertainment      | $   13.68 | Art supplies
+  2026-02-18 | Healthcare         | $   81.40 | Glasses
+  2026-02-23 | Transportation     | $   84.58 | Chevron
+  2026-02-23 | Entertainment      | $   74.08 | AMC Theaters
+  2026-02-23 | Bills & Utilities  | $  399.69 | Verizon bill
+  2026-02-24 | Bills & Utilities  | $  340.27 | Cell phone bill
+  2026-02-27 | Other              | $   70.17 | Church offering
+  2026-02-27 | Bills & Utilities  | $  357.09 | Monthly water
+  2026-02-27 | Education          | $   95.86 | Software license
+  2026-02-28 | Healthcare         | $  148.44 | Monthly premium
+
+2026-03 - Total: $3,491.63
+--------------------------------------------------
+  2026-03-02 | Education          | $  239.23 | Notebooks
+  2026-03-02 | Healthcare         | $   83.69 | Glasses
+  2026-03-02 | Entertainment      | $   53.21 | Netflix
+  2026-03-04 | Food & Dining      | $   20.25 | Postmates
+  2026-03-04 | Other              | $   58.66 | Gratuity
+  2026-03-04 | Other              | $   26.96 | Nonprofit
+  2026-03-05 | Entertainment      | $    7.51 | Netflix subscription
+  2026-03-05 | Education          | $   30.89 | App purchase
+  2026-03-07 | Food & Dining      | $    9.52 | Chipotle
+  2026-03-08 | Other              | $   19.29 | Amazon Prime
+  2026-03-08 | Bills & Utilities  | $  198.40 | Monthly internet
+  2026-03-08 | Food & Dining      | $   42.98 | Subway
+  2026-03-09 | Bills & Utilities  | $  330.90 | Verizon bill
+  2026-03-09 | Food & Dining      | $   41.63 | Chipotle
+  2026-03-10 | Education          | $  272.39 | Textbook
+  2026-03-11 | Bills & Utilities  | $  126.14 | Water bill
+  2026-03-13 | Shopping           | $   77.75 | Amazon order
+  2026-03-15 | Bills & Utilities  | $  497.64 | Monthly internet
+  2026-03-16 | Education          | $  257.74 | School supplies
+  2026-03-17 | Entertainment      | $   46.89 | Movie tickets
+  2026-03-18 | Other              | $   52.67 | Church offering
+  2026-03-19 | Transportation     | $   21.28 | Shell gas station
+  2026-03-19 | Healthcare         | $   30.96 | Prescription
+  2026-03-20 | Entertainment      | $   35.52 | AMC Theaters
+  2026-03-20 | Entertainment      | $   14.52 | Photography gear
+  2026-03-21 | Healthcare         | $   11.06 | Doctor appointment
+  2026-03-24 | Other              | $   33.00 | Church offering
+  2026-03-24 | Shopping           | $   47.41 | Holiday presents
+  2026-03-25 | Healthcare         | $   65.27 | Glasses
+  2026-03-25 | Entertainment      | $  100.00 | Netflix subscription
+  2026-03-25 | Healthcare         | $  144.07 | Walgreens
+  2026-03-26 | Entertainment      | $    7.38 | Netflix subscription
+  2026-03-30 | Bills & Utilities  | $  339.84 | Monthly rent
+  2026-03-31 | Entertainment      | $   21.62 | Art supplies
+  2026-03-31 | Transportation     | $   45.64 | Airport parking
+  2026-03-31 | Transportation     | $   79.72 | Uber ride
+
+2026-04 - Total: $4,429.37
+--------------------------------------------------
+  2026-04-01 | Healthcare         | $  123.47 | Monthly premium
+  2026-04-02 | Food & Dining      | $    6.99 | Whole Foods Market
+  2026-04-03 | Other              | $   69.64 | Charity donation
+  2026-04-05 | Education          | $  162.30 | Online course
+  2026-04-07 | Entertainment      | $  100.00 | Art supplies
+  2026-04-08 | Transportation     | $   45.59 | Car wash
+  2026-04-08 | Education          | $  281.37 | Microsoft 365
+  2026-04-12 | Education          | $   68.55 | Microsoft 365
+  2026-04-12 | Entertainment      | $   26.57 | Music festival
+  2026-04-14 | Education          | $   36.32 | Novels
+  2026-04-15 | Education          | $  281.29 | Workshop
+  2026-04-15 | Food & Dining      | $   39.42 | Grubhub
+  2026-04-16 | Other              | $   33.28 | Cloud storage
+  2026-04-16 | Bills & Utilities  | $  368.43 | Monthly water
+  2026-04-18 | Shopping           | $  146.68 | Laptop accessories
+  2026-04-18 | Healthcare         | $   29.60 | Specialist visit
+  2026-04-18 | Other              | $   99.24 | Service tip
+  2026-04-19 | Transportation     | $   37.52 | Train ticket
+  2026-04-19 | Education          | $  217.51 | Novels
+  2026-04-19 | Food & Dining      | $   63.03 | Lunch with coworkers
+  2026-04-19 | Healthcare         | $  158.15 | Health insurance
+  2026-04-19 | Other              | $   51.39 | Service tip
+  2026-04-19 | Bills & Utilities  | $  307.23 | Power company
+  2026-04-20 | Shopping           | $  158.91 | Bed sheets
+  2026-04-21 | Other              | $   37.74 | Flight
+  2026-04-21 | Other              | $   16.69 | Amazon Prime
+  2026-04-21 | Bills & Utilities  | $  138.72 | AT&T bill
+  2026-04-21 | Shopping           | $  210.00 | Baby shower gift
+  2026-04-22 | Other              | $   79.64 | Service tip
+  2026-04-22 | Shopping           | $   49.61 | Bed sheets
+  2026-04-22 | Healthcare         | $  165.41 | Glasses
+  2026-04-22 | Transportation     | $   45.26 | Monthly parking
+  2026-04-23 | Entertainment      | $    8.13 | Netflix subscription
+  2026-04-23 | Bills & Utilities  | $  136.30 | Electric bill
+  2026-04-24 | Healthcare         | $  192.11 | Dental cleaning
+  2026-04-28 | Education          | $  146.31 | Amazon books
+  2026-04-28 | Bills & Utilities  | $  167.67 | Monthly rent
+  2026-04-29 | Entertainment      | $   19.52 | HBO Max
+  2026-04-30 | Entertainment      | $   11.65 | Xbox game
+  2026-04-30 | Other              | $   92.13 | Random expense
+
+2026-05 - Total: $3,262.74
+--------------------------------------------------
+  2026-05-02 | Shopping           | $  121.36 | Bed sheets
+  2026-05-03 | Shopping           | $   50.05 | Bed sheets
+  2026-05-04 | Other              | $   45.10 | Uncategorized
+  2026-05-04 | Bills & Utilities  | $  360.00 | Utility payment
+  2026-05-05 | Food & Dining      | $   44.03 | Weekly groceries at Walmart
+  2026-05-06 | Transportation     | $   99.68 | Airport parking
+  2026-05-08 | Transportation     | $   62.05 | Lyft to airport
+  2026-05-08 | Entertainment      | $   13.01 | Concert tickets
+  2026-05-09 | Entertainment      | $    8.28 | Event
+  2026-05-11 | Food & Dining      | $   10.76 | Weekly groceries at Walmart
+  2026-05-12 | Education          | $   48.83 | Amazon books
+  2026-05-12 | Food & Dining      | $   54.33 | Chipotle
+  2026-05-13 | Healthcare         | $   44.64 | Orthodontist
+  2026-05-13 | Bills & Utilities  | $  470.96 | Cell phone bill
+  2026-05-13 | Shopping           | $   24.27 | eBay item
+  2026-05-14 | Education          | $  139.01 | College tuition
+  2026-05-15 | Bills & Utilities  | $  398.82 | Electric bill
+  2026-05-16 | Entertainment      | $   18.43 | Photography gear
+  2026-05-18 | Bills & Utilities  | $  285.46 | Power company
+  2026-05-19 | Bills & Utilities  | $  386.31 | Electric bill
+  2026-05-19 | Bills & Utilities  | $  250.59 | WiFi bill
+  2026-05-20 | Food & Dining      | $   19.60 | Uber Eats
+  2026-05-20 | Shopping           | $   83.61 | Bed sheets
+  2026-05-21 | Entertainment      | $   35.35 | Craft supplies
+  2026-05-22 | Transportation     | $   37.67 | Uber Eats trip
+  2026-05-27 | Shopping           | $  150.54 | Phone charger
+
+2026-06 - Total: $2,780.63
+--------------------------------------------------
+  2026-06-01 | Education          | $  240.41 | Tuition installment
+  2026-06-02 | Shopping           | $  190.27 | Online deal
+  2026-06-03 | Food & Dining      | $   29.40 | Chick-fil-A
+  2026-06-03 | Healthcare         | $   71.00 | Orthodontist
+  2026-06-03 | Food & Dining      | $   11.53 | Uber Eats
+  2026-06-03 | Education          | $   72.13 | Novels
+  2026-06-04 | Food & Dining      | $   34.66 | Subway
+  2026-06-06 | Transportation     | $   11.34 | Lyft to airport
+  2026-06-06 | Entertainment      | $   18.75 | Event
+  2026-06-07 | Shopping           | $  153.38 | Home decor
+  2026-06-09 | Shopping           | $   63.76 | Winter jacket
+  2026-06-10 | Bills & Utilities  | $  253.60 | Water bill
+  2026-06-16 | Food & Dining      | $   17.14 | Uber Eats
+  2026-06-16 | Transportation     | $   92.93 | Battery replacement
+  2026-06-16 | Food & Dining      | $   10.24 | Starbucks morning coffee
+  2026-06-17 | Education          | $  191.44 | Course materials
+  2026-06-18 | Other              | $   21.14 | Delivery tip
+  2026-06-19 | Healthcare         | $   42.38 | Walgreens
+  2026-06-21 | Shopping           | $   12.41 | Wedding gift
+  2026-06-21 | Shopping           | $   11.94 | Target clothes
+  2026-06-21 | Bills & Utilities  | $  450.52 | Monthly internet
+  2026-06-22 | Food & Dining      | $   36.37 | Local cafe
+  2026-06-23 | Transportation     | $   65.58 | Chevron
+  2026-06-24 | Shopping           | $  169.53 | Kitchen items
+  2026-06-24 | Food & Dining      | $   24.13 | Uber Eats
+  2026-06-26 | Transportation     | $   23.98 | BP gas
+  2026-06-30 | Bills & Utilities  | $  395.47 | Internet service
+  2026-06-30 | Entertainment      | $   65.20 | Video game purchase
+
+2026-07 - Total: $2,499.59
+--------------------------------------------------
+  2026-07-01 | Healthcare         | $  166.90 | Dentist visit
+  2026-07-02 | Entertainment      | $    7.36 | Live show
+  2026-07-02 | Transportation     | $   52.83 | Shell gas station
+  2026-07-03 | Healthcare         | $   79.25 | Eye exam
+  2026-07-05 | Shopping           | $  134.07 | Etsy purchase
+  2026-07-06 | Food & Dining      | $    7.96 | Dinner at Italian place
+  2026-07-06 | Food & Dining      | $   43.46 | DoorDash order
+  2026-07-07 | Other              | $   90.09 | Travel expense
+  2026-07-08 | Healthcare         | $   38.17 | Walgreens
+  2026-07-08 | Other              | $   73.11 | Uncategorized
+  2026-07-10 | Transportation     | $   50.09 | Event parking
+  2026-07-11 | Bills & Utilities  | $  179.97 | AT&T bill
+  2026-07-12 | Transportation     | $   10.72 | Event parking
+  2026-07-13 | Transportation     | $   24.70 | Lyft to airport
+  2026-07-13 | Education          | $   38.93 | App purchase
+  2026-07-14 | Other              | $   99.68 | Restaurant tip
+  2026-07-14 | Entertainment      | $   23.48 | Photography gear
+  2026-07-15 | Other              | $   74.81 | Gratuity
+  2026-07-16 | Entertainment      | $   13.23 | Craft supplies
+  2026-07-18 | Transportation     | $   40.29 | Subway fare
+  2026-07-19 | Food & Dining      | $    8.41 | Starbucks morning coffee
+  2026-07-20 | Transportation     | $   60.90 | Lyft ride home
+  2026-07-20 | Healthcare         | $  137.64 | Monthly premium
+  2026-07-20 | Other              | $    9.99 | Newsletter
+  2026-07-23 | Education          | $   47.51 | Amazon books
+  2026-07-23 | Bills & Utilities  | $  277.41 | Monthly electric
+  2026-07-24 | Education          | $  227.07 | Course materials
+  2026-07-24 | Bills & Utilities  | $  298.59 | WiFi bill
+  2026-07-26 | Shopping           | $  128.79 | Kitchen items
+  2026-07-29 | Shopping           | $   54.18 | Winter jacket
+
+2026-08 - Total: $3,277.49
+--------------------------------------------------
+  2026-08-02 | Healthcare         | $   30.19 | Dental cleaning
+  2026-08-03 | Bills & Utilities  | $  326.43 | Water bill
+  2026-08-04 | Food & Dining      | $   13.30 | Dunkin Donuts
+  2026-08-04 | Transportation     | $   44.37 | Subway fare
+  2026-08-05 | Healthcare         | $   65.79 | Annual checkup
+  2026-08-06 | Food & Dining      | $    6.04 | Date night
+  2026-08-06 | Bills & Utilities  | $   96.43 | Rent payment
+  2026-08-06 | Transportation     | $   33.80 | Oil change
+  2026-08-07 | Education          | $  201.02 | Office supplies
+  2026-08-07 | Education          | $  213.05 | School payment
+  2026-08-07 | Shopping           | $  100.86 | Laptop accessories
+  2026-08-09 | Transportation     | $   16.95 | Lyft to airport
+  2026-08-10 | Transportation     | $   78.19 | Airport parking
+  2026-08-10 | Entertainment      | $   15.00 | Sporting goods
+  2026-08-11 | Other              | $   16.84 | Cloud storage
+  2026-08-12 | Bills & Utilities  | $  409.74 | Electric bill
+  2026-08-13 | Transportation     | $   95.58 | Event parking
+  2026-08-17 | Bills & Utilities  | $  120.49 | Verizon bill
+  2026-08-18 | Other              | $   89.41 | Misc purchase
+  2026-08-19 | Shopping           | $   99.25 | Home decor
+  2026-08-19 | Bills & Utilities  | $  492.74 | WiFi bill
+  2026-08-20 | Education          | $  155.24 | Office supplies
+  2026-08-20 | Healthcare         | $   31.63 | Annual checkup
+  2026-08-22 | Other              | $   93.02 | Cloud storage
+  2026-08-22 | Entertainment      | $   14.44 | Netflix
+  2026-08-24 | Transportation     | $   23.59 | Monthly bus pass
+  2026-08-28 | Transportation     | $   42.34 | Chevron
+  2026-08-28 | Bills & Utilities  | $  280.24 | Verizon bill
+  2026-08-30 | Education          | $   71.52 | Adobe subscription
+
+2026-09 - Total: $3,090.31
+--------------------------------------------------
+  2026-09-01 | Transportation     | $   22.06 | Downtown parking
+  2026-09-02 | Education          | $  289.01 | Online course
+  2026-09-03 | Education          | $  248.53 | College tuition
+  2026-09-08 | Food & Dining      | $   18.74 | Subway
+  2026-09-08 | Entertainment      | $   63.05 | Sporting goods
+  2026-09-13 | Entertainment      | $   55.44 | Disney+
+  2026-09-13 | Education          | $  239.16 | Novels
+  2026-09-14 | Shopping           | $   88.46 | Laptop accessories
+  2026-09-15 | Transportation     | $   50.94 | Uber ride
+  2026-09-16 | Education          | $   42.72 | Online course
+  2026-09-18 | Transportation     | $   82.17 | Metro card
+  2026-09-19 | Bills & Utilities  | $  429.18 | Utility payment
+  2026-09-20 | Education          | $  156.60 | Workshop
+  2026-09-20 | Bills & Utilities  | $  340.39 | Power company
+  2026-09-20 | Entertainment      | $    6.53 | Event
+  2026-09-21 | Entertainment      | $   18.97 | Event
+  2026-09-21 | Shopping           | $  197.81 | New headphones
+  2026-09-22 | Healthcare         | $  149.10 | Doctor appointment
+  2026-09-24 | Transportation     | $    5.31 | Car wash
+  2026-09-25 | Other              | $   61.67 | Delivery tip
+  2026-09-26 | Education          | $  277.27 | Course materials
+  2026-09-27 | Shopping           | $   68.93 | IKEA trip
+  2026-09-28 | Transportation     | $   93.08 | Tire rotation
+  2026-09-29 | Shopping           | $   46.50 | Tablet
+  2026-09-30 | Other              | $   38.69 | Flight
+
+2026-10 - Total: $4,304.94
+--------------------------------------------------
+  2026-10-01 | Education          | $  150.69 | Adobe subscription
+  2026-10-01 | Bills & Utilities  | $  405.37 | Water bill
+  2026-10-02 | Other              | $   71.54 | Other
+  2026-10-03 | Education          | $  182.34 | School supplies
+  2026-10-04 | Education          | $  271.35 | School supplies
+  2026-10-06 | Other              | $   87.81 | Charity donation
+  2026-10-08 | Transportation     | $   88.53 | BP gas
+  2026-10-09 | Shopping           | $  126.44 | Target clothes
+  2026-10-10 | Other              | $   26.79 | Nonprofit
+  2026-10-11 | Bills & Utilities  | $  485.31 | Internet service
+  2026-10-11 | Healthcare         | $   62.66 | Copay
+  2026-10-14 | Other              | $   98.80 | Other
+  2026-10-15 | Bills & Utilities  | $  344.79 | Monthly internet
+  2026-10-15 | Transportation     | $   21.31 | Train ticket
+  2026-10-15 | Education          | $  122.58 | College tuition
+  2026-10-15 | Entertainment      | $   71.10 | Concert tickets
+  2026-10-17 | Other              | $   61.47 | Cloud storage
+  2026-10-18 | Healthcare         | $   16.22 | CVS pharmacy
+  2026-10-19 | Entertainment      | $   51.66 | Steam
+  2026-10-20 | Education          | $  261.29 | Course materials
+  2026-10-22 | Food & Dining      | $  123.15 | Chipotle
+  2026-10-24 | Other              | $   13.91 | Service tip
+  2026-10-24 | Transportation     | $   15.99 | BP gas
+  2026-10-24 | Food & Dining      | $   15.53 | Birthday dinner
+  2026-10-25 | Transportation     | $   82.57 | Event parking
+  2026-10-25 | Other              | $   54.69 | Church offering
+  2026-10-27 | Bills & Utilities  | $  365.96 | Monthly internet
+  2026-10-27 | Transportation     | $   13.50 | Subway fare
+  2026-10-29 | Bills & Utilities  | $  451.06 | Utility payment
+  2026-10-29 | Shopping           | $   36.83 | Bed sheets
+  2026-10-29 | Transportation     | $   99.90 | Downtown parking
+  2026-10-30 | Transportation     | $   23.80 | Subway fare
+
+2026-11 - Total: $2,015.77
+--------------------------------------------------
+  2026-11-02 | Education          | $   58.79 | Course materials
+  2026-11-02 | Food & Dining      | $   39.40 | Starbucks morning coffee
+  2026-11-03 | Transportation     | $   76.87 | Car wash
+  2026-11-03 | Entertainment      | $   28.26 | Craft supplies
+  2026-11-03 | Other              | $   63.52 | Gratuity
+  2026-11-04 | Other              | $   58.42 | Church offering
+  2026-11-05 | Healthcare         | $   98.90 | Copay
+  2026-11-06 | Shopping           | $   91.87 | Amazon clothing
+  2026-11-09 | Transportation     | $   20.30 | Chevron
+  2026-11-09 | Transportation     | $   90.11 | Downtown parking
+  2026-11-10 | Other              | $   55.12 | Delivery tip
+  2026-11-11 | Food & Dining      | $   38.31 | McDonalds
+  2026-11-11 | Healthcare         | $  123.63 | Vision insurance
+  2026-11-11 | Entertainment      | $    7.83 | Disney+
+  2026-11-11 | Other              | $   32.47 | Flight
+  2026-11-12 | Food & Dining      | $   38.20 | Dinner at Italian place
+  2026-11-13 | Other              | $   41.63 | Charity donation
+  2026-11-14 | Shopping           | $  280.09 | Online deal
+  2026-11-15 | Food & Dining      | $   12.06 | DoorDash order
+  2026-11-15 | Entertainment      | $  100.00 | Spotify
+  2026-11-16 | Entertainment      | $    6.22 | Concert tickets
+  2026-11-17 | Bills & Utilities  | $  324.15 | Monthly rent
+  2026-11-18 | Education          | $  255.95 | College tuition
+  2026-11-21 | Transportation     | $   32.73 | Lyft ride home
+  2026-11-21 | Other              | $   40.94 | Amazon Prime
+
+
+🔝 TOP 10 LARGEST EXPENSES
+============================================================
+
+ 1. $    497.64 - Bills & Utilities  - Monthly internet
+ 2. $    492.74 - Bills & Utilities  - WiFi bill
+ 3. $    487.48 - Bills & Utilities  - AT&T bill
+ 4. $    485.31 - Bills & Utilities  - Internet service
+ 5. $    480.51 - Bills & Utilities  - WiFi bill
+ 6. $    470.96 - Bills & Utilities  - Cell phone bill
+ 7. $    451.06 - Bills & Utilities  - Utility payment
+ 8. $    450.52 - Bills & Utilities  - Monthly internet
+ 9. $    440.35 - Bills & Utilities  - WiFi bill
+10. $    437.68 - Bills & Utilities  - Electric bill
+
+
+============================================================
+Report generated by Personal Expense Tracker
+Data Visualization Project
+============================================================

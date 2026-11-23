@@ -1,0 +1,103 @@
+# ============================================
+# Python .gitignore
+# Personal Expense Tracker with Data Visualization
+# ============================================
+
+# --- Python bytecode & cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+*.pyo
+
+# --- Virtual environments ---
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# --- IDE & editor files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.project
+.pydevproject
+.settings/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Distribution / packaging ---
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Testing & coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+coverage.xml
+
+# --- Type checking / linting ---
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# --- Environment variables & secrets ---
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# --- OS generated files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- Project specific ---
+# Output data files
+output/
+charts/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Generated data files (keep sample, ignore user data)
+expenses.csv
+my_expenses.csv
+test_*.csv
+expense_report_*.txt
+expense_report_*.csv
+
+# Keep sample_expenses.csv tracked (it's part of the project)
+!sample_expenses.csv
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+*.backup

@@ -1,0 +1,366 @@
+date,category,subcategory,amount,description,payment_method
+2025-11-28,Education,Software,28.25,Microsoft 365,Debit Card
+2025-11-28,Shopping,Clothing,269.76,Amazon clothing,Credit Card
+2025-11-29,Shopping,Electronics,220.33,Laptop accessories,Cash
+2025-11-29,Food & Dining,Food Delivery,13.46,DoorDash order,Credit Card
+2025-11-29,Bills & Utilities,Internet,440.35,WiFi bill,Debit Card
+2025-11-30,Education,Software,249.68,Microsoft 365,Debit Card
+2025-11-30,Shopping,Gifts,285.19,Baby shower gift,Credit Card
+2025-12-02,Shopping,Home Goods,113.12,Bed sheets,Debit Card
+2025-12-04,Entertainment,Hobbies,37.12,Art supplies,Debit Card
+2025-12-04,Shopping,Online Shopping,163.59,Online deal,Debit Card
+2025-12-06,Healthcare,Dental,12.2,Dentist visit,Cash
+2025-12-08,Shopping,Home Goods,224.35,Home decor,Debit Card
+2025-12-08,Transportation,Parking,84.78,Airport parking,Credit Card
+2025-12-09,Entertainment,Movies,18.43,AMC Theaters,Mobile Payment
+2025-12-10,Food & Dining,Groceries,28.99,Weekly groceries at Walmart,Debit Card
+2025-12-12,Healthcare,Doctor Visit,147.17,Specialist visit,Credit Card
+2025-12-12,Shopping,Gifts,127.29,Holiday presents,Credit Card
+2025-12-13,Shopping,Clothing,195.94,New shoes,Debit Card
+2025-12-14,Entertainment,Movies,26.88,Netflix,Mobile Payment
+2025-12-17,Shopping,Online Shopping,135.51,Etsy purchase,Credit Card
+2025-12-17,Bills & Utilities,Water,164.34,Water bill,Debit Card
+2025-12-19,Education,Supplies,219.92,Office supplies,Debit Card
+2025-12-20,Food & Dining,Fast Food,125.63,Chipotle,Credit Card
+2025-12-22,Shopping,Clothing,244.71,Target clothes,Bank Transfer
+2025-12-24,Education,Tuition,229.1,College tuition,Credit Card
+2025-12-24,Education,Courses,67.77,Coursera,Cash
+2025-12-24,Shopping,Electronics,160.34,Laptop accessories,Debit Card
+2025-12-24,Entertainment,Hobbies,5.23,Art supplies,Debit Card
+2025-12-25,Food & Dining,Restaurant,12.26,Dinner at Italian place,Debit Card
+2025-12-26,Entertainment,Hobbies,30.79,Craft supplies,Debit Card
+2025-12-26,Shopping,Home Goods,30.59,IKEA trip,Credit Card
+2025-12-28,Other,Subscriptions,14.23,Cloud storage,Debit Card
+2025-12-28,Food & Dining,Restaurant,41.68,Lunch with coworkers,Cash
+2025-12-28,Entertainment,Streaming Services,58.49,Disney+,Debit Card
+2025-12-29,Entertainment,Hobbies,49.14,Photography gear,Debit Card
+2025-12-30,Education,Tuition,178.22,Tuition installment,Credit Card
+2025-12-31,Transportation,Car Maintenance,62.14,Battery replacement,Debit Card
+2026-01-01,Entertainment,Concerts,13.91,Event,Credit Card
+2026-01-02,Entertainment,Hobbies,21.26,Art supplies,Cash
+2026-01-03,Bills & Utilities,Phone Bill,389.4,AT&T bill,Credit Card
+2026-01-03,Bills & Utilities,Rent,81.73,Housing,Debit Card
+2026-01-03,Bills & Utilities,Internet,480.51,WiFi bill,Credit Card
+2026-01-03,Bills & Utilities,Rent,202.58,Rent payment,Credit Card
+2026-01-04,Food & Dining,Restaurant,10.24,Dinner at Italian place,Credit Card
+2026-01-04,Transportation,Car Maintenance,17.39,Battery replacement,Credit Card
+2026-01-07,Transportation,Public Transit,62.26,Monthly bus pass,Credit Card
+2026-01-07,Food & Dining,Coffee,20.8,Dunkin Donuts,Credit Card
+2026-01-10,Shopping,Clothing,178.51,New shoes,Cash
+2026-01-10,Healthcare,Vision,52.67,Eye exam,Credit Card
+2026-01-15,Education,Books,93.87,Course materials,Cash
+2026-01-15,Other,Miscellaneous,49.34,Other,Debit Card
+2026-01-17,Entertainment,Movies,49.37,Netflix,Credit Card
+2026-01-17,Shopping,Clothing,10.11,New shoes,Bank Transfer
+2026-01-18,Entertainment,Gaming,30.57,Steam,Cash
+2026-01-19,Bills & Utilities,Rent,375.86,Rent payment,Cash
+2026-01-19,Food & Dining,Groceries,102.95,Costco run,Credit Card
+2026-01-19,Food & Dining,Restaurant,75.09,Birthday dinner,Credit Card
+2026-01-20,Shopping,Gifts,79.74,Baby shower gift,Credit Card
+2026-01-21,Shopping,Home Goods,124.74,Home decor,Cash
+2026-01-22,Bills & Utilities,Phone Bill,487.48,AT&T bill,Debit Card
+2026-01-22,Healthcare,Health Insurance,76.92,Monthly premium,Cash
+2026-01-23,Shopping,Online Shopping,172.62,Etsy purchase,Credit Card
+2026-01-24,Education,Courses,243.26,Workshop,Credit Card
+2026-01-24,Bills & Utilities,Internet,192.11,WiFi bill,Credit Card
+2026-01-25,Food & Dining,Fast Food,11.95,Subway,Debit Card
+2026-01-28,Entertainment,Concerts,32.45,Live show,Debit Card
+2026-01-29,Entertainment,Gaming,10.9,Xbox game,Credit Card
+2026-01-30,Transportation,Gas/Fuel,19.21,Chevron,Cash
+2026-01-30,Shopping,Online Shopping,34.05,Online deal,Debit Card
+2026-02-01,Bills & Utilities,Electricity,437.68,Electric bill,Cash
+2026-02-03,Healthcare,Vision,166.46,Glasses,Credit Card
+2026-02-04,Transportation,Car Maintenance,13.39,Tire rotation,Mobile Payment
+2026-02-04,Shopping,Clothing,164.61,New shoes,Credit Card
+2026-02-05,Food & Dining,Food Delivery,13.23,DoorDash order,Credit Card
+2026-02-06,Transportation,Car Maintenance,49.23,Battery replacement,Debit Card
+2026-02-06,Shopping,Clothing,89.38,Winter jacket,Debit Card
+2026-02-10,Shopping,Home Goods,125.69,Home decor,Cash
+2026-02-12,Food & Dining,Groceries,77.71,Weekly groceries at Walmart,Debit Card
+2026-02-12,Transportation,Uber/Lyft,86.21,Uber Eats trip,Mobile Payment
+2026-02-12,Entertainment,Movies,22.68,Cinema,Mobile Payment
+2026-02-13,Entertainment,Hobbies,7.58,Craft supplies,Credit Card
+2026-02-14,Other,Tips,44.55,Delivery tip,Credit Card
+2026-02-15,Other,Travel,74.12,Hotel,Mobile Payment
+2026-02-16,Education,Books,256.27,Amazon books,Debit Card
+2026-02-17,Entertainment,Hobbies,13.68,Art supplies,Debit Card
+2026-02-18,Healthcare,Vision,81.4,Glasses,Cash
+2026-02-23,Transportation,Gas/Fuel,84.58,Chevron,Debit Card
+2026-02-23,Entertainment,Movies,74.08,AMC Theaters,Mobile Payment
+2026-02-23,Bills & Utilities,Phone Bill,399.69,Verizon bill,Debit Card
+2026-02-24,Bills & Utilities,Phone Bill,340.27,Cell phone bill,Debit Card
+2026-02-27,Other,Donations,70.17,Church offering,Cash
+2026-02-27,Bills & Utilities,Water,357.09,Monthly water,Credit Card
+2026-02-27,Education,Software,95.86,Software license,Credit Card
+2026-02-28,Healthcare,Health Insurance,148.44,Monthly premium,Debit Card
+2026-03-02,Education,Supplies,239.23,Notebooks,Cash
+2026-03-02,Healthcare,Vision,83.69,Glasses,Cash
+2026-03-02,Entertainment,Movies,53.21,Netflix,Debit Card
+2026-03-04,Food & Dining,Food Delivery,20.25,Postmates,Credit Card
+2026-03-04,Other,Tips,58.66,Gratuity,Debit Card
+2026-03-04,Other,Donations,26.96,Nonprofit,Credit Card
+2026-03-05,Entertainment,Streaming Services,7.51,Netflix subscription,Bank Transfer
+2026-03-05,Education,Software,30.89,App purchase,Debit Card
+2026-03-07,Food & Dining,Fast Food,9.52,Chipotle,Credit Card
+2026-03-08,Other,Subscriptions,19.29,Amazon Prime,Credit Card
+2026-03-08,Bills & Utilities,Internet,198.4,Monthly internet,Credit Card
+2026-03-08,Food & Dining,Fast Food,42.98,Subway,Credit Card
+2026-03-09,Bills & Utilities,Phone Bill,330.9,Verizon bill,Debit Card
+2026-03-09,Food & Dining,Fast Food,41.63,Chipotle,Debit Card
+2026-03-10,Education,Books,272.39,Textbook,Credit Card
+2026-03-11,Bills & Utilities,Water,126.14,Water bill,Credit Card
+2026-03-13,Shopping,Online Shopping,77.75,Amazon order,Credit Card
+2026-03-15,Bills & Utilities,Internet,497.64,Monthly internet,Debit Card
+2026-03-16,Education,Supplies,257.74,School supplies,Mobile Payment
+2026-03-17,Entertainment,Movies,46.89,Movie tickets,Mobile Payment
+2026-03-18,Other,Donations,52.67,Church offering,Credit Card
+2026-03-19,Transportation,Gas/Fuel,21.28,Shell gas station,Debit Card
+2026-03-19,Healthcare,Pharmacy,30.96,Prescription,Credit Card
+2026-03-20,Entertainment,Movies,35.52,AMC Theaters,Credit Card
+2026-03-20,Entertainment,Hobbies,14.52,Photography gear,Credit Card
+2026-03-21,Healthcare,Doctor Visit,11.06,Doctor appointment,Bank Transfer
+2026-03-24,Other,Donations,33.0,Church offering,Credit Card
+2026-03-24,Shopping,Gifts,47.41,Holiday presents,Cash
+2026-03-25,Healthcare,Vision,65.27,Glasses,Credit Card
+2026-03-25,Entertainment,Streaming Services,100.0,Netflix subscription,Debit Card
+2026-03-25,Healthcare,Pharmacy,144.07,Walgreens,Debit Card
+2026-03-26,Entertainment,Streaming Services,7.38,Netflix subscription,Credit Card
+2026-03-30,Bills & Utilities,Rent,339.84,Monthly rent,Debit Card
+2026-03-31,Entertainment,Hobbies,21.62,Art supplies,Bank Transfer
+2026-03-31,Transportation,Parking,45.64,Airport parking,Debit Card
+2026-03-31,Transportation,Uber/Lyft,79.72,Uber ride,Debit Card
+2026-04-01,Healthcare,Health Insurance,123.47,Monthly premium,Debit Card
+2026-04-02,Food & Dining,Groceries,6.99,Whole Foods Market,Cash
+2026-04-03,Other,Donations,69.64,Charity donation,Debit Card
+2026-04-05,Education,Courses,162.3,Online course,Debit Card
+2026-04-07,Entertainment,Hobbies,100.0,Art supplies,Credit Card
+2026-04-08,Transportation,Car Maintenance,45.59,Car wash,Credit Card
+2026-04-08,Education,Software,281.37,Microsoft 365,Debit Card
+2026-04-12,Education,Software,68.55,Microsoft 365,Debit Card
+2026-04-12,Entertainment,Concerts,26.57,Music festival,Credit Card
+2026-04-14,Education,Books,36.32,Novels,Debit Card
+2026-04-15,Education,Courses,281.29,Workshop,Credit Card
+2026-04-15,Food & Dining,Food Delivery,39.42,Grubhub,Credit Card
+2026-04-16,Other,Subscriptions,33.28,Cloud storage,Mobile Payment
+2026-04-16,Bills & Utilities,Water,368.43,Monthly water,Credit Card
+2026-04-18,Shopping,Electronics,146.68,Laptop accessories,Credit Card
+2026-04-18,Healthcare,Doctor Visit,29.6,Specialist visit,Credit Card
+2026-04-18,Other,Tips,99.24,Service tip,Credit Card
+2026-04-19,Transportation,Public Transit,37.52,Train ticket,Debit Card
+2026-04-19,Education,Books,217.51,Novels,Credit Card
+2026-04-19,Food & Dining,Restaurant,63.03,Lunch with coworkers,Credit Card
+2026-04-19,Healthcare,Health Insurance,158.15,Health insurance,Debit Card
+2026-04-19,Other,Tips,51.39,Service tip,Cash
+2026-04-19,Bills & Utilities,Electricity,307.23,Power company,Cash
+2026-04-20,Shopping,Home Goods,158.91,Bed sheets,Credit Card
+2026-04-21,Other,Travel,37.74,Flight,Credit Card
+2026-04-21,Other,Subscriptions,16.69,Amazon Prime,Credit Card
+2026-04-21,Bills & Utilities,Phone Bill,138.72,AT&T bill,Debit Card
+2026-04-21,Shopping,Gifts,210.0,Baby shower gift,Debit Card
+2026-04-22,Other,Tips,79.64,Service tip,Mobile Payment
+2026-04-22,Shopping,Home Goods,49.61,Bed sheets,Debit Card
+2026-04-22,Healthcare,Vision,165.41,Glasses,Credit Card
+2026-04-22,Transportation,Parking,45.26,Monthly parking,Mobile Payment
+2026-04-23,Entertainment,Streaming Services,8.13,Netflix subscription,Cash
+2026-04-23,Bills & Utilities,Electricity,136.3,Electric bill,Credit Card
+2026-04-24,Healthcare,Dental,192.11,Dental cleaning,Debit Card
+2026-04-28,Education,Books,146.31,Amazon books,Bank Transfer
+2026-04-28,Bills & Utilities,Rent,167.67,Monthly rent,Credit Card
+2026-04-29,Entertainment,Streaming Services,19.52,HBO Max,Cash
+2026-04-30,Entertainment,Gaming,11.65,Xbox game,Debit Card
+2026-04-30,Other,Miscellaneous,92.13,Random expense,Bank Transfer
+2026-05-02,Shopping,Home Goods,121.36,Bed sheets,Credit Card
+2026-05-03,Shopping,Home Goods,50.05,Bed sheets,Credit Card
+2026-05-04,Other,Miscellaneous,45.1,Uncategorized,Cash
+2026-05-04,Bills & Utilities,Water,360.0,Utility payment,Credit Card
+2026-05-05,Food & Dining,Groceries,44.03,Weekly groceries at Walmart,Debit Card
+2026-05-06,Transportation,Parking,99.68,Airport parking,Credit Card
+2026-05-08,Transportation,Uber/Lyft,62.05,Lyft to airport,Debit Card
+2026-05-08,Entertainment,Concerts,13.01,Concert tickets,Debit Card
+2026-05-09,Entertainment,Concerts,8.28,Event,Credit Card
+2026-05-11,Food & Dining,Groceries,10.76,Weekly groceries at Walmart,Bank Transfer
+2026-05-12,Education,Books,48.83,Amazon books,Bank Transfer
+2026-05-12,Food & Dining,Fast Food,54.33,Chipotle,Credit Card
+2026-05-13,Healthcare,Dental,44.64,Orthodontist,Credit Card
+2026-05-13,Bills & Utilities,Phone Bill,470.96,Cell phone bill,Credit Card
+2026-05-13,Shopping,Online Shopping,24.27,eBay item,Credit Card
+2026-05-14,Education,Tuition,139.01,College tuition,Credit Card
+2026-05-15,Bills & Utilities,Electricity,398.82,Electric bill,Credit Card
+2026-05-16,Entertainment,Hobbies,18.43,Photography gear,Debit Card
+2026-05-18,Bills & Utilities,Electricity,285.46,Power company,Credit Card
+2026-05-19,Bills & Utilities,Electricity,386.31,Electric bill,Credit Card
+2026-05-19,Bills & Utilities,Internet,250.59,WiFi bill,Credit Card
+2026-05-20,Food & Dining,Food Delivery,19.6,Uber Eats,Credit Card
+2026-05-20,Shopping,Home Goods,83.61,Bed sheets,Credit Card
+2026-05-21,Entertainment,Hobbies,35.35,Craft supplies,Mobile Payment
+2026-05-22,Transportation,Uber/Lyft,37.67,Uber Eats trip,Credit Card
+2026-05-27,Shopping,Electronics,150.54,Phone charger,Credit Card
+2026-06-01,Education,Tuition,240.41,Tuition installment,Mobile Payment
+2026-06-02,Shopping,Online Shopping,190.27,Online deal,Cash
+2026-06-03,Food & Dining,Fast Food,29.4,Chick-fil-A,Debit Card
+2026-06-03,Healthcare,Dental,71.0,Orthodontist,Cash
+2026-06-03,Food & Dining,Food Delivery,11.53,Uber Eats,Credit Card
+2026-06-03,Education,Books,72.13,Novels,Debit Card
+2026-06-04,Food & Dining,Fast Food,34.66,Subway,Mobile Payment
+2026-06-06,Transportation,Uber/Lyft,11.34,Lyft to airport,Mobile Payment
+2026-06-06,Entertainment,Concerts,18.75,Event,Debit Card
+2026-06-07,Shopping,Home Goods,153.38,Home decor,Credit Card
+2026-06-09,Shopping,Clothing,63.76,Winter jacket,Debit Card
+2026-06-10,Bills & Utilities,Water,253.6,Water bill,Credit Card
+2026-06-16,Food & Dining,Food Delivery,17.14,Uber Eats,Debit Card
+2026-06-16,Transportation,Car Maintenance,92.93,Battery replacement,Debit Card
+2026-06-16,Food & Dining,Coffee,10.24,Starbucks morning coffee,Credit Card
+2026-06-17,Education,Books,191.44,Course materials,Mobile Payment
+2026-06-18,Other,Tips,21.14,Delivery tip,Credit Card
+2026-06-19,Healthcare,Pharmacy,42.38,Walgreens,Debit Card
+2026-06-21,Shopping,Gifts,12.41,Wedding gift,Debit Card
+2026-06-21,Shopping,Clothing,11.94,Target clothes,Credit Card
+2026-06-21,Bills & Utilities,Internet,450.52,Monthly internet,Mobile Payment
+2026-06-22,Food & Dining,Coffee,36.37,Local cafe,Cash
+2026-06-23,Transportation,Gas/Fuel,65.58,Chevron,Mobile Payment
+2026-06-24,Shopping,Home Goods,169.53,Kitchen items,Debit Card
+2026-06-24,Food & Dining,Food Delivery,24.13,Uber Eats,Credit Card
+2026-06-26,Transportation,Gas/Fuel,23.98,BP gas,Bank Transfer
+2026-06-30,Bills & Utilities,Internet,395.47,Internet service,Debit Card
+2026-06-30,Entertainment,Gaming,65.2,Video game purchase,Debit Card
+2026-07-01,Healthcare,Dental,166.9,Dentist visit,Debit Card
+2026-07-02,Entertainment,Concerts,7.36,Live show,Cash
+2026-07-02,Transportation,Gas/Fuel,52.83,Shell gas station,Debit Card
+2026-07-03,Healthcare,Vision,79.25,Eye exam,Debit Card
+2026-07-05,Shopping,Online Shopping,134.07,Etsy purchase,Debit Card
+2026-07-06,Food & Dining,Restaurant,7.96,Dinner at Italian place,Credit Card
+2026-07-06,Food & Dining,Food Delivery,43.46,DoorDash order,Credit Card
+2026-07-07,Other,Travel,90.09,Travel expense,Credit Card
+2026-07-08,Healthcare,Pharmacy,38.17,Walgreens,Debit Card
+2026-07-08,Other,Miscellaneous,73.11,Uncategorized,Credit Card
+2026-07-10,Transportation,Parking,50.09,Event parking,Debit Card
+2026-07-11,Bills & Utilities,Phone Bill,179.97,AT&T bill,Debit Card
+2026-07-12,Transportation,Parking,10.72,Event parking,Debit Card
+2026-07-13,Transportation,Uber/Lyft,24.7,Lyft to airport,Credit Card
+2026-07-13,Education,Software,38.93,App purchase,Debit Card
+2026-07-14,Other,Tips,99.68,Restaurant tip,Debit Card
+2026-07-14,Entertainment,Hobbies,23.48,Photography gear,Credit Card
+2026-07-15,Other,Tips,74.81,Gratuity,Credit Card
+2026-07-16,Entertainment,Hobbies,13.23,Craft supplies,Credit Card
+2026-07-18,Transportation,Public Transit,40.29,Subway fare,Credit Card
+2026-07-19,Food & Dining,Coffee,8.41,Starbucks morning coffee,Credit Card
+2026-07-20,Transportation,Uber/Lyft,60.9,Lyft ride home,Mobile Payment
+2026-07-20,Healthcare,Health Insurance,137.64,Monthly premium,Debit Card
+2026-07-20,Other,Subscriptions,9.99,Newsletter,Debit Card
+2026-07-23,Education,Books,47.51,Amazon books,Credit Card
+2026-07-23,Bills & Utilities,Electricity,277.41,Monthly electric,Cash
+2026-07-24,Education,Books,227.07,Course materials,Bank Transfer
+2026-07-24,Bills & Utilities,Internet,298.59,WiFi bill,Debit Card
+2026-07-26,Shopping,Home Goods,128.79,Kitchen items,Cash
+2026-07-29,Shopping,Clothing,54.18,Winter jacket,Credit Card
+2026-08-02,Healthcare,Dental,30.19,Dental cleaning,Credit Card
+2026-08-03,Bills & Utilities,Water,326.43,Water bill,Credit Card
+2026-08-04,Food & Dining,Coffee,13.3,Dunkin Donuts,Credit Card
+2026-08-04,Transportation,Public Transit,44.37,Subway fare,Bank Transfer
+2026-08-05,Healthcare,Doctor Visit,65.79,Annual checkup,Debit Card
+2026-08-06,Food & Dining,Restaurant,6.04,Date night,Debit Card
+2026-08-06,Bills & Utilities,Rent,96.43,Rent payment,Credit Card
+2026-08-06,Transportation,Car Maintenance,33.8,Oil change,Mobile Payment
+2026-08-07,Education,Supplies,201.02,Office supplies,Debit Card
+2026-08-07,Education,Tuition,213.05,School payment,Debit Card
+2026-08-07,Shopping,Electronics,100.86,Laptop accessories,Cash
+2026-08-09,Transportation,Uber/Lyft,16.95,Lyft to airport,Cash
+2026-08-10,Transportation,Parking,78.19,Airport parking,Credit Card
+2026-08-10,Entertainment,Hobbies,15.0,Sporting goods,Credit Card
+2026-08-11,Other,Subscriptions,16.84,Cloud storage,Debit Card
+2026-08-12,Bills & Utilities,Electricity,409.74,Electric bill,Credit Card
+2026-08-13,Transportation,Parking,95.58,Event parking,Mobile Payment
+2026-08-17,Bills & Utilities,Phone Bill,120.49,Verizon bill,Cash
+2026-08-18,Other,Miscellaneous,89.41,Misc purchase,Cash
+2026-08-19,Shopping,Home Goods,99.25,Home decor,Debit Card
+2026-08-19,Bills & Utilities,Internet,492.74,WiFi bill,Mobile Payment
+2026-08-20,Education,Supplies,155.24,Office supplies,Mobile Payment
+2026-08-20,Healthcare,Doctor Visit,31.63,Annual checkup,Credit Card
+2026-08-22,Other,Subscriptions,93.02,Cloud storage,Credit Card
+2026-08-22,Entertainment,Movies,14.44,Netflix,Credit Card
+2026-08-24,Transportation,Public Transit,23.59,Monthly bus pass,Cash
+2026-08-28,Transportation,Gas/Fuel,42.34,Chevron,Credit Card
+2026-08-28,Bills & Utilities,Phone Bill,280.24,Verizon bill,Bank Transfer
+2026-08-30,Education,Software,71.52,Adobe subscription,Mobile Payment
+2026-09-01,Transportation,Parking,22.06,Downtown parking,Credit Card
+2026-09-02,Education,Courses,289.01,Online course,Credit Card
+2026-09-03,Education,Tuition,248.53,College tuition,Cash
+2026-09-08,Food & Dining,Fast Food,18.74,Subway,Credit Card
+2026-09-08,Entertainment,Hobbies,63.05,Sporting goods,Credit Card
+2026-09-13,Entertainment,Streaming Services,55.44,Disney+,Cash
+2026-09-13,Education,Books,239.16,Novels,Bank Transfer
+2026-09-14,Shopping,Electronics,88.46,Laptop accessories,Credit Card
+2026-09-15,Transportation,Uber/Lyft,50.94,Uber ride,Credit Card
+2026-09-16,Education,Courses,42.72,Online course,Debit Card
+2026-09-18,Transportation,Public Transit,82.17,Metro card,Credit Card
+2026-09-19,Bills & Utilities,Water,429.18,Utility payment,Bank Transfer
+2026-09-20,Education,Courses,156.6,Workshop,Bank Transfer
+2026-09-20,Bills & Utilities,Electricity,340.39,Power company,Debit Card
+2026-09-20,Entertainment,Concerts,6.53,Event,Credit Card
+2026-09-21,Entertainment,Concerts,18.97,Event,Debit Card
+2026-09-21,Shopping,Electronics,197.81,New headphones,Debit Card
+2026-09-22,Healthcare,Doctor Visit,149.1,Doctor appointment,Cash
+2026-09-24,Transportation,Car Maintenance,5.31,Car wash,Mobile Payment
+2026-09-25,Other,Tips,61.67,Delivery tip,Credit Card
+2026-09-26,Education,Books,277.27,Course materials,Cash
+2026-09-27,Shopping,Home Goods,68.93,IKEA trip,Debit Card
+2026-09-28,Transportation,Car Maintenance,93.08,Tire rotation,Bank Transfer
+2026-09-29,Shopping,Electronics,46.5,Tablet,Mobile Payment
+2026-09-30,Other,Travel,38.69,Flight,Debit Card
+2026-10-01,Education,Software,150.69,Adobe subscription,Credit Card
+2026-10-01,Bills & Utilities,Water,405.37,Water bill,Credit Card
+2026-10-02,Other,Miscellaneous,71.54,Other,Debit Card
+2026-10-03,Education,Supplies,182.34,School supplies,Credit Card
+2026-10-04,Education,Supplies,271.35,School supplies,Debit Card
+2026-10-06,Other,Donations,87.81,Charity donation,Bank Transfer
+2026-10-08,Transportation,Gas/Fuel,88.53,BP gas,Credit Card
+2026-10-09,Shopping,Clothing,126.44,Target clothes,Cash
+2026-10-10,Other,Donations,26.79,Nonprofit,Credit Card
+2026-10-11,Bills & Utilities,Internet,485.31,Internet service,Credit Card
+2026-10-11,Healthcare,Health Insurance,62.66,Copay,Debit Card
+2026-10-14,Other,Miscellaneous,98.8,Other,Credit Card
+2026-10-15,Bills & Utilities,Internet,344.79,Monthly internet,Credit Card
+2026-10-15,Transportation,Public Transit,21.31,Train ticket,Credit Card
+2026-10-15,Education,Tuition,122.58,College tuition,Debit Card
+2026-10-15,Entertainment,Concerts,71.1,Concert tickets,Credit Card
+2026-10-17,Other,Subscriptions,61.47,Cloud storage,Cash
+2026-10-18,Healthcare,Pharmacy,16.22,CVS pharmacy,Credit Card
+2026-10-19,Entertainment,Gaming,51.66,Steam,Bank Transfer
+2026-10-20,Education,Books,261.29,Course materials,Mobile Payment
+2026-10-22,Food & Dining,Fast Food,123.15,Chipotle,Debit Card
+2026-10-24,Other,Tips,13.91,Service tip,Mobile Payment
+2026-10-24,Transportation,Gas/Fuel,15.99,BP gas,Credit Card
+2026-10-24,Food & Dining,Restaurant,15.53,Birthday dinner,Mobile Payment
+2026-10-25,Transportation,Parking,82.57,Event parking,Credit Card
+2026-10-25,Other,Donations,54.69,Church offering,Credit Card
+2026-10-27,Bills & Utilities,Internet,365.96,Monthly internet,Credit Card
+2026-10-27,Transportation,Public Transit,13.5,Subway fare,Credit Card
+2026-10-29,Bills & Utilities,Water,451.06,Utility payment,Mobile Payment
+2026-10-29,Shopping,Home Goods,36.83,Bed sheets,Debit Card
+2026-10-29,Transportation,Parking,99.9,Downtown parking,Mobile Payment
+2026-10-30,Transportation,Public Transit,23.8,Subway fare,Debit Card
+2026-11-02,Education,Books,58.79,Course materials,Credit Card
+2026-11-02,Food & Dining,Coffee,39.4,Starbucks morning coffee,Debit Card
+2026-11-03,Transportation,Car Maintenance,76.87,Car wash,Cash
+2026-11-03,Entertainment,Hobbies,28.26,Craft supplies,Credit Card
+2026-11-03,Other,Tips,63.52,Gratuity,Credit Card
+2026-11-04,Other,Donations,58.42,Church offering,Cash
+2026-11-05,Healthcare,Health Insurance,98.9,Copay,Debit Card
+2026-11-06,Shopping,Clothing,91.87,Amazon clothing,Debit Card
+2026-11-09,Transportation,Gas/Fuel,20.3,Chevron,Debit Card
+2026-11-09,Transportation,Parking,90.11,Downtown parking,Debit Card
+2026-11-10,Other,Tips,55.12,Delivery tip,Credit Card
+2026-11-11,Food & Dining,Fast Food,38.31,McDonalds,Credit Card
+2026-11-11,Healthcare,Vision,123.63,Vision insurance,Debit Card
+2026-11-11,Entertainment,Streaming Services,7.83,Disney+,Debit Card
+2026-11-11,Other,Travel,32.47,Flight,Debit Card
+2026-11-12,Food & Dining,Restaurant,38.2,Dinner at Italian place,Debit Card
+2026-11-13,Other,Donations,41.63,Charity donation,Debit Card
+2026-11-14,Shopping,Online Shopping,280.09,Online deal,Debit Card
+2026-11-15,Food & Dining,Food Delivery,12.06,DoorDash order,Credit Card
+2026-11-15,Entertainment,Streaming Services,100.0,Spotify,Credit Card
+2026-11-16,Entertainment,Concerts,6.22,Concert tickets,Credit Card
+2026-11-17,Bills & Utilities,Rent,324.15,Monthly rent,Credit Card
+2026-11-18,Education,Tuition,255.95,College tuition,Cash
+2026-11-21,Transportation,Uber/Lyft,32.73,Lyft ride home,Credit Card
+2026-11-21,Other,Subscriptions,40.94,Amazon Prime,Cash
